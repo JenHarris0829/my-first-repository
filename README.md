@@ -13,3 +13,4 @@ Important steps for git workflow:
 
 -example_file.txt
 
+Hello world, I love using git!
